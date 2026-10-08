@@ -30,6 +30,8 @@ Tableau Dashboard
 
 The interactive dashboard includes annual returns, volatility, sector performance, a risk–return scatter plot, Top 20 stocks, and summary KPIs.
 
+![S&P 500 Dashboard](dashboard_overview.png)
+
 Key Insights
 
 * 2022: Significant market downturn, with sharp declines in several major stocks.
